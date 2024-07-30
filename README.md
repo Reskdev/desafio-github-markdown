@@ -8,7 +8,7 @@ Desafio DIO para implementarmos todo o conhecimento obtido até agora.
 ## DESAFIO MARKDOWN
 - Criar conta Git e repositório do desafio [x]
 - Utilizar Git dev para alterar projeto [x]
-- Adicionar colaborador, clonar repositório, realizar commits, abrir issues e pull requests []
+- Adicionar colaborador, clonar repositório, realizar commits, abrir issues e pull requests [x]
 - Editar README.md com informações do desafio, instruções e uma breve descrição do projeto [x]
 
 
